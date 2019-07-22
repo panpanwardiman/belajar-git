@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello, this is your First</h1>
-    <a href="fitur_a.php">Go to Fitur A</a>
+    <h1>Hello, this is Fitur A</h1>
+    <a href="index.php">Go to back</a>
 </body>
 </html>
